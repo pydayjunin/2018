@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## PyDay Junin 2018
 
 You can use the [editor on GitHub](https://github.com/pydayjunin/2018/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
