@@ -1,37 +1,24 @@
 ## PyDay Junin 2018
 
-You can use the [editor on GitHub](https://github.com/pydayjunin/2018/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Bienvenidos a la página web de PyDay Junín 2018.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Lugar y Hora
 
-### Markdown
+El evento será en la Universidad Nacional del Noroeste de la Provincia de Buenos Aires ( UNNOBA ), el día Viernes 30 de Noviembre de 2018.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+El horario de inicio será : 9 am.
 
-```markdown
-Syntax highlighted code block
+### Call For Charlas
 
-# Header 1
-## Header 2
-### Header 3
+Ya se encuentra abierto el Call For Charlas para el evento.
 
-- Bulleted
-- List
+#### Requerimientos para las propuestas
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pydayjunin/2018/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Título
+2. Talk abstract: Breve descripción de la propuesta.
+3. Descripción: Descripción detallada de la charla. 
+4. Público: Novato / Intermedio / Experto
+5. Disertante/s: Nombre y apellido, breve descripción, foto, tel, dni, email
+6. Tiempo de actividad: Charla de 50 minutos o Taller de tiempo a definir.
+7. Otras consideraciones que el comité debe evaluar: Máximo dos renglones. 
+8. Las propuestas deben ser enviadas a pydayjunin@gmail.com hasta el 10-11-18.
