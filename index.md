@@ -22,3 +22,16 @@ Ya se encuentra abierto el Call For Charlas para el evento.
 6. Tiempo de actividad: Charla de 50 minutos o Taller de tiempo a definir.
 7. Otras consideraciones que el comité debe evaluar: Máximo dos renglones. 
 8. Las propuestas deben ser enviadas a pydayjunin@gmail.com hasta el 10-11-18.
+
+### Lugar y Hora
+
+Organiza UNNOBA ( Universidad Nacional del Noroeste de la Provincia de Buenos Aires ) y Python Argentina.
+
+### Organizadores
+
+1. Claudia Russo
+2. Mónica Carolina Sarobe
+3. Juan Rodríguez Monti - Coordinación general del evento
+4. Germán Osella Massa
+5. Hernán Daniel Bruno
+6. Edgar Ratto
