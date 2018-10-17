@@ -23,11 +23,22 @@ Ya se encuentra abierto el Call For Charlas para el evento.
 7. Otras consideraciones que el comité debe evaluar: Máximo dos renglones. 
 8. Las propuestas deben ser enviadas a pydayjunin@gmail.com hasta el 10-11-18.
 
-### Lugar y Hora
+### Organizadores
+
+La inscripción al evento aún no se encuentra habilitada. La misma se va a realizar por este medio.
+
+### Certificados de asistencia
+
+La organización va a proveer certificados de asistencia firmados digitalmente por la organización a los asistentes.
+
+### Certificados para los oradores
+
+La organización va a proveer certificados a los oradores firmados digitalmente por la organización, en donde se detallará su participación como orador en el evento.
+
+
+### Organización
 
 Organiza UNNOBA ( Universidad Nacional del Noroeste de la Provincia de Buenos Aires ) y Python Argentina.
-
-### Organizadores
 
 1. Claudia Russo
 2. Mónica Carolina Sarobe
